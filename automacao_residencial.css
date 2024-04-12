@@ -67,7 +67,7 @@ div.rele2_desligado {
 	background: url(lampada_desligada.png) no-repeat left top;
 }
 
-#div1 {
+#div2 {
 	position: absolute;
 	right: 85px;
 	top: 195px;
@@ -77,7 +77,25 @@ div.rele2_desligado {
     height: 150px; 
 }
 
-#div2 {
+#div3 {
+	position: absolute;
+	right: 85px;
+	top: 355px;
+    border-radius: 25px;
+    border: 2px solid #000000;
+    width: 350px;
+    height: 150px; 
+}
+#div4 {
+	position: absolute;
+	right: 85px;
+	top: 355px;
+    border-radius: 25px;
+    border: 2px solid #000000;
+    width: 350px;
+    height: 150px; 
+}
+#div5 {
 	position: absolute;
 	right: 85px;
 	top: 355px;
